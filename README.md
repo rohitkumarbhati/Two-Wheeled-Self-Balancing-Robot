@@ -100,20 +100,18 @@ Two-Wheeled-Self-Balancing-Robot
 │   └── Self_Balancing_Robot.ino
 │
 ├── images
-│   ├── three_wheel_robot.jpg
-│   ├── two_wheel_robot.jpg
-│   ├── electronics.jpg
-│   └── final_robot.jpg
+│   ├── SBR1.jpg
+│   ├── SBR2.jpg
+│   ├── SBR3.jpg
+│   ├── SBR4.jpg
+│   ├── SBR5.jpg
+│   ├── SBR6.jpg
+│   └── SBR7.jpg
 │
 ├── video
-│   └── final_demo.mp4
+│   └── final_self_balancing.mp4
 │
-├── documentation
-│   ├── circuit_diagram.pdf
-│   └── project_report.pdf
-│
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
@@ -134,9 +132,4 @@ Two-Wheeled-Self-Balancing-Robot
 
 M.Tech in Advanced Manufacturing and Design
 Mechanical Engineering
-
----
-
-## License
-
-This project is licensed under the MIT License.
+IIT Jodhpur
