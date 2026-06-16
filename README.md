@@ -87,7 +87,7 @@ Controller gains were experimentally tuned to improve response and robustness.
 
 ## Demonstration Video
 
-https://github.com/rohitkumarbhati/Two-Wheeled-Self-Balancing-Robot/blob/main/video/self_balancing_robot.mp4
+[Watch the Self-Balancing Robot Demo](video/self_balancing_robot.mp4)
 
 ---
 
