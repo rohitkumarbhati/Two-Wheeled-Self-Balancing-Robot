@@ -130,6 +130,6 @@ Two-Wheeled-Self-Balancing-Robot
 
 **Rohit**
 
-M.Tech in Advanced Manufacturing and Design
-Mechanical Engineering
+M.Tech in Advanced Manufacturing and Design.
+Mechanical Engineering.
 IIT Jodhpur
