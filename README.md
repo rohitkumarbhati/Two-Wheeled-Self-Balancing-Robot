@@ -69,19 +69,19 @@ Controller gains were experimentally tuned to improve response and robustness.
 
 ### Initial Three-Wheeled Platform
 
-![Three-Wheeled Prototype](images/three_wheel_robot.jpg)
+![Three-Wheeled Prototype](Images/SBR1.jpg)
 
 ### Two-Wheeled Configuration
 
-![Two-Wheeled Robot](images/two_wheel_robot.jpg)
+![Two-Wheeled Robot](Images/SBR2.jpg)
 
 ### Electronics and Assembly
 
-![Electronics](images/electronics.jpg)
+![Electronics](Images/SBR4.jpg)
 
 ### Final Prototype
 
-![Final Robot](images/final_robot.jpg)
+![Final Robot](Images/SBR6.jpg)
 
 ---
 
